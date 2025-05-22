@@ -1,4 +1,4 @@
-# Raylib_Tetris
+# Raylib Tetris
 ![Screenshot 2025-05-21 190058](https://github.com/user-attachments/assets/252953ef-10d8-45c1-b923-4287c05be707)
 ## Build Instructions (Windows + Visual Studio)
 
