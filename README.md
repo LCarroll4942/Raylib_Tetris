@@ -3,7 +3,7 @@
 ## Build Instructions (Windows + Visual Studio)
 
 1. Install [raylib](https://www.raylib.com/) (use vcpkg or manual build).
-2. Clone this repo: `git clone https://github.com/NeckOnTop/Raylib_Tetris.git`
+2. Clone this repo: `git clone https://github.com/LCarroll4942/Raylib_Tetris.git`
 3. Open `Raylib_Tetris.sln` in Visual Studio.
 4. Build and run (F5).
 
